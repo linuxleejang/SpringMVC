@@ -1,0 +1,12 @@
+# Eclipse
+.classpath
+.project
+.factorypath
+.springBeans
+.settings/
+
+# Maven
+target/
+
+# Mac
+.Do_Store
