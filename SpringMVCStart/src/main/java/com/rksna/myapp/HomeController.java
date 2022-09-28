@@ -34,6 +34,7 @@ public class HomeController {
 		model.addAttribute("serverTime", formattedDate );
 		model.addAttribute("test", "Hello");
 		model.addAttribute("test1", "Hello1");
+		model.addAttribute("test2", "Hello2");
 		
 		return "home";
 	}
