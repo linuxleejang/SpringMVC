@@ -37,6 +37,7 @@ public class HomeController {
 		model.addAttribute("test2", "Hello2");
 		model.addAttribute("test3", "UTF8 적용");
 		model.addAttribute("test4", "BranchTest");
+		model.addAttribute("test5", "BranchTest5");
 		
 		return "home";
 	}
